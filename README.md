@@ -130,9 +130,10 @@ Chess 象棋
 使用蘋方19.0d3e2
 
 ## Regional indicator symbol (flags) 國家/地區旗幟Emoji
-使用Twitter設計風格，涵括幾百個旗幟。也能讓windows正常顯示旗幟
+使用Twitter設計風格，涵括幾百個旗幟。也能讓windows10、11正常顯示旗幟。
 
-256(249+6+1)個旗幟
+256(249+6+1)個旗幟：
+[維基百科顯示]([https://en.wikipedia.org/wiki/Regional_indicator_symbol](https://zh.wikipedia.org/zh-tw/%E5%8C%BA%E5%9F%9F%E6%8C%87%E7%A4%BA%E7%AC%A6))
 
 特別旗幟：（下列旗幟僅此字型顯示）
 
@@ -150,7 +151,7 @@ Chess 象棋
 
 德國拜揚邦：🏴󠁤󠁥󠁢󠁹󠁿
 
-（注意：中華人民共和國境內不允許雪山獅子旗，請其境內人士慎用或避免使用）
+（注意：中華人民共和國境內不允許青天白日滿地紅、雪山獅子旗，請其境內人士慎用或避免使用）
 
 
 
